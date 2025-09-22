@@ -1,4 +1,4 @@
-# Lyrics Player 🎵✨
+# Lyrics Player 🎵✨ - by Idusha Manaka
 
 
 This Python script plays audio while displaying synced lyrics with colorful, letter-by-letter animations. It brings words to life in your terminal through timed effects and smooth playback.
